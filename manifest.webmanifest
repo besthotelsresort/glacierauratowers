@@ -1,0 +1,26 @@
+{
+  "name": "Glacier Aura Towers",
+  "short_name": "Glacier",
+  "description": "Glacier Aura Towers: A timeless escape on the Mediterranean coast",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fdf6ef",
+  "theme_color": "#a8324c",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
